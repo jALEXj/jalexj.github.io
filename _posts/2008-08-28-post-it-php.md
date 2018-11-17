@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Un bloc note dans une page PHP
 ---
-Voici le code:
+Voici le code pour créer un cloc note façon Post-It:
 ```
 <?
 // Update post-it.txt
