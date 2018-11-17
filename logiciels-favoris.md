@@ -10,6 +10,6 @@ title: Ma liste de logiciels recommandés
 
 ### OSX
 
-- ClipMenu
+- [ClipMenu](http://www.clipmenu.com/)
 
 ## Administration 
