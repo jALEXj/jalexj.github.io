@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Un bloc note dans une page PHP
 ---
 ## Un bloc note dans une page PHP
 
