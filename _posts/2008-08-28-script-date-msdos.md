@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Un bloc note dans une page PHP
+title: MsDOS - Récupérer la date courante au format YYYYMMDD
 ---
 Il est parfois utile de récupérer la date au format YYYYMMDD, cela permet par exemple de nommer des fichier de façon à pouvoir les trier aisément. Voici le code:
 ```
