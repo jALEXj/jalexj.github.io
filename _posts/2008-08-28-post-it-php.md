@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 ## Un bloc note dans une page PHP
 
