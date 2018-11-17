@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Test de Jekyll
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+J'avais eu un Blog sous DotClear il y'a un moment de ça, hébérgé chez Free.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Je trouvais sympa de pouvoir partager dessus des articles interssants trouvés dans le cadre de ma veille et autres script et lignes de commandes que je trouvais utiles.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Du coup je me suis mis à chercher un nouveau système de blog, et j'ai trouvé Jekyll, le système de Blog de Github, puis [Jekyll-now](https://github.com/barryclark/jekyll-now) qui permet de s'affranchir de toute manipulation d'installation et d'heberger gratuitement son Blog sans pub chez Github. 
