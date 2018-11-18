@@ -16,4 +16,16 @@ Gestionnaire de presse papier
 Gestionnaire de presse papier
 - [ClipMenu](http://www.clipmenu.com/)
 
-## Administration 
+## Image
+
+- Fastone Image Viewer
+- paint.net
+- Draw.io
+
+## Système
+
+Nettoyage
+- CCleaner
+- PC Decrapifier
+
+## Administration
