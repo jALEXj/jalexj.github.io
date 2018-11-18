@@ -4,7 +4,7 @@ layout: post
 title: Un bloc note dans une page PHP
 ---
 Voici le code pour créer un bloc note façon Post-It:
-{% highlight php %}
+```
 <?
 // Update post-it.txt
 if ($_REQUEST[postit]){
@@ -29,4 +29,4 @@ Notes:<br>
 <br>
 <input name="postit" type='submit' style='background-color:#F9FFA2;border:1px solid #999;font-family:verdana;font-size:10px' value='post-it!' />
 </form>
-{% endhighlight %}
+```
