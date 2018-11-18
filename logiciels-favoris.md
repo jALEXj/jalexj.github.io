@@ -1,6 +1,6 @@
 ---
 published: true
-layout: post
+layout: page
 permalink: /logiciels-favoris/
 title: Ma liste de logiciels recommandés
 ---
