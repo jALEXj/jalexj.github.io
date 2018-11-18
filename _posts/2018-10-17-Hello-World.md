@@ -17,3 +17,4 @@ Du coup je me suis mis à chercher un nouveau système de blog, et j'ai trouvé 
 - [How to Easily Embed YouTube Videos in Jekyll Sites Without a Plugin](https://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/)
 - [Jekyll: créer une page par catégorie et un menu des catégories](https://www.valhalla.fr/2017/10/16/jekyll-une-page-par-categorie/)
 - [Jekyll cheatsheet](https://devhints.io/jekyll)
+- [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/)
