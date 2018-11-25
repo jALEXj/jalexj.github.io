@@ -1,5 +1,5 @@
 ---
-category: Système
+category: Systeme
 published: false
 ---
 ## Installation d'un serveur NextCloud sur un RaspBerry
