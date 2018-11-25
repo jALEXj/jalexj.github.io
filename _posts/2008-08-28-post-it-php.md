@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+category: Scripting
 title: Un bloc note dans une page PHP
 ---
 Voici le code pour créer un bloc note façon Post-It:
