@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Test de Jekyll
+category: Veille
 published: true
-comments: true
 ---
 
 J'avais un blog [jalexj.free.fr](http://jalexj.free.fr/) sous DotClear il y'a un moment de ça, hébérgé chez Free.
