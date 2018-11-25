@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+category: Scripting
 title: Windows / MsDOS - Suppression des fichiers temporaires de tous les utilisateur
 ---
 Très utile notamment sur un serveur Terminal Serveur
