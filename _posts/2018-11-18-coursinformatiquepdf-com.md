@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+category: Technique
 title: Supports de cours informatiques en PDF
 ---
 Des cours informatiques et exercices corrigés, c'est ici: [coursinformatiquepdf.com](https://coursinformatiquepdf.com/)
