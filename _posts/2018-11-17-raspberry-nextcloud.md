@@ -1,4 +1,5 @@
 ---
+category: Veille
 published: false
 ---
 ## Installation d'un serveur NextCloud sur un RaspBerry
